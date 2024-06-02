@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="004d8679-bf32-43f7-826c-455ebd2929d3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+  </component>
+  <component name="ProjectId" id="2gPBQm5nsWEH8LU4GUGrh9S3Bqw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/86139/Desktop/SELAB1/src/basis&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.runner&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\86139\Desktop\SELAB1\src\basis" />
+      <recent name="C:\Users\86139\Desktop\SELAB1\src\ui" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\86139\Desktop\SELAB1\src\ui" />
+      <recent name="C:\Users\86139\Desktop\SELAB1\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ui.MainApplication">
+    <configuration name="basis.GraphGenerate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basis.GraphGenerate" />
+      <module name="SELAB1" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\Java\JDK\javafx-sdk-22.0.1\lib&quot; --add-modules=javafx.controls,javafx.fxml " />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="basis.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basis.Main" />
+      <module name="SELAB1" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\Java\JDK\javafx-sdk-22.0.1\lib&quot; --add-modules=javafx.controls,javafx.fxml " />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="basis.RandomWalk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basis.RandomWalk" />
+      <module name="SELAB1" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\Java\JDK\javafx-sdk-22.0.1\lib&quot; --add-modules=javafx.controls,javafx.fxml " />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ui.MainApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui.MainApplication" />
+      <module name="SELAB1" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\Java\JDK\javafx-sdk-22.0.1\lib&quot; --add-modules=javafx.controls,javafx.fxml " />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ui.MainApplication" />
+      <item itemvalue="Application.basis.GraphGenerate" />
+      <item itemvalue="Application.basis.Main" />
+      <item itemvalue="Application.basis.RandomWalk" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ui.MainApplication" />
+        <item itemvalue="Application.basis.Main" />
+        <item itemvalue="Application.basis.RandomWalk" />
+        <item itemvalue="Application.basis.GraphGenerate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="004d8679-bf32-43f7-826c-455ebd2929d3" name="Changes" comment="" />
+      <created>1715589319971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715589319971</updated>
+      <workItem from="1715589321288" duration="18665000" />
+      <workItem from="1715651983643" duration="34209000" />
+      <workItem from="1715738255335" duration="640000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
